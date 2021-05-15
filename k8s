@@ -1,0 +1,7 @@
+kubernetes is a google company implemented tool it was developed by go language
+it is used to container management tool
+inn this we write a yaml file to create a poda in the nodes
+pods are nothing but a set of logical collection of containers
+namespace are used to group the pods or set of group of pods for identification purpose those are working for perticular services
+k8s has replicaset is used to form services in the k8s 
+.
