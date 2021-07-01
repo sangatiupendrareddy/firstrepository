@@ -1,4 +1,4 @@
 from centos
-run yum update
+run yum update -y
 run yum install git -y
 
