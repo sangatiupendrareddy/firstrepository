@@ -1,3 +1,3 @@
 from centos
-run yum install git -y
+run yum install httpd -y
 
